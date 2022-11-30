@@ -9,7 +9,7 @@ the world’s most popular front-end open source toolkit, featuring Sass
 variables and mixins, responsive grid system, extensive prebuilt components, 
 and powerful JavaScript plugins.
 
-Up to date with `Bootstrap <http://getbootstrap.com/>`_ **5.2.2**.
+Up to date with `Bootstrap <http://getbootstrap.com/>`_ **5.2.3**.
 
 This boilerplate is compatible with `Divio Cloud <http://www.divio.com/>`_.
 
